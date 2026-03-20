@@ -1,2 +1,3 @@
-# smart-smart-home-kwhi
-A smart home automation platform for modern development workflows
+# Smart Smart Home Kwhi
+
+A smart home automation platform for modern development workflows.
